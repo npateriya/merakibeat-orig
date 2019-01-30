@@ -1,5 +1,6 @@
-# Merakibeat
+# NOTE: This repo is now moved & maintained at https://github.com/CiscoDevNet/merakibeat
 
+# Merakibeat
 This is elastic beats (https://www.elastic.co/products/beats) plugin for Meraki 
 health API. 
 Meraki exposes health API to identify health of network, devices and client. Some 
