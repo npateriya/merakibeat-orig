@@ -1,8 +1,3 @@
-
-#meraki beat
-
-# NOTE: This repo is now moved & maintained at https://github.com/CiscoDevNet/merakibeat
-
 # Merakibeat
 This is elastic beats (https://www.elastic.co/products/beats) plugin for Meraki 
 health API. 
@@ -65,5 +60,6 @@ docker-compose logs -f
 ```
  
     
+# NOTE: This repo is now moved & maintained at https://github.com/CiscoDevNet/merakibeat
 
 
